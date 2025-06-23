@@ -1,14 +1,14 @@
-#PROYECTO FINAL BIOINFORMÁTICA
+# PROYECTO FINAL BIOINFORMÁTICA
 
-##Nectar Spur en Orchidaceae
+## Nectar Spur en Orchidaceae
 
-*ORGANISMO EN EL QUE SE VA A TRABAJAR
+* ORGANISMO EN EL QUE SE VA A TRABAJAR
 Especies de la familia Orchidaceae (orquídeas), específicamente con especies presentes en Ecuador, tanto especies que tienen el spur, como las que no
 
-*LO QUE SE VA A HACER BREVEMENTE
+* LO QUE SE VA A HACER BREVEMENTE
 Se va a realizar un análisis filogenético para estudiar la evolución del nectar spur en orquídeas ecuatorianas. Para ello, utilizaré secuencias genéticas disponibles en bases de datos públicas (como GenBank) de genes comúnmente usados en filogenia (por ejemplo, matK, rbcL, ITS). Construiré un árbol filogenético y luego mapearé la presencia o ausencia del nectar spur como un carácter morfológico sobre el árbol para inferir su evolución y posibles eventos de convergencia.
 
-*PROGRAMAS A USAR
+* PROGRAMAS A USAR
 IQ-TREE: para realizar el análisis filogenético y construir el árbol evolutivo con máxima verosimilitud.
 
 FigTree: para visualizar y anotar el árbol filogenético, incluyendo la presencia/ausencia del nectar spur.
