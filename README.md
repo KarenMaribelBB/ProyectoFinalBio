@@ -79,9 +79,9 @@ Reconstruir una filogenia molecular del género Epidendrum a partir de secuencia
 
 
 ### Referencias Bibliográficas
-Hodges, S. A. (1997). Floral nectar spurs and diversification. International Journal of Plant Sciences, 158(6 SUPPL. 1). https://doi.org/10.1086/297508
-Hodges, S. A., & Arnold, M. L. (1995). Spurring plant diversification: Are floral nectar spurs a key innovation? Proceedings of the Royal Society B: Biological Sciences, 262(1365). https://doi.org/10.1098/rspb.1995.0215
-Stpiczyńska, M., Kamińska, M., Davies, K. L., & Pansarin, E. R. (2018). Nectar-secreting and nectarless Epidendrum: Structure of the inner floral spur. Frontiers in Plant Science, 9. https://doi.org/10.3389/fpls.2018.00840, M., Kamińska, M., Davies, K. L., & Pansarin, E. R. (2018). Nectar-secreting and nectarless Epidendrum: Structure of the inner floral spur. Frontiers in Plant Science, 9. https://doi.org/10.3389/fpls.2018.00840
+* Hodges, S. A. (1997). Floral nectar spurs and diversification. International Journal of Plant Sciences, 158(6 SUPPL. 1). https://doi.org/10.1086/297508
+* Hodges, S. A., & Arnold, M. L. (1995). Spurring plant diversification: Are floral nectar spurs a key innovation? Proceedings of the Royal Society B: Biological Sciences, 262(1365). https://doi.org/10.1098/rspb.1995.0215
+* Stpiczyńska, M., Kamińska, M., Davies, K. L., & Pansarin, E. R. (2018). Nectar-secreting and nectarless Epidendrum: Structure of the inner floral spur. Frontiers in Plant Science, 9. https://doi.org/10.3389/fpls.2018.00840, M., Kamińska, M., Davies, K. L., & Pansarin, E. R. (2018). Nectar-secreting and nectarless Epidendrum: Structure of the inner floral spur. Frontiers in Plant Science, 9. https://doi.org/10.3389/fpls.2018.00840
 
 
 Fotografía de Epidendrum trydactylum, especie que tiene nectar spur:
