@@ -1,6 +1,6 @@
 # PROYECTO FINAL BIOINFORMÁTICA
 
-## Nectar Spur en Orchidaceae
+## Nectar Spur en familia Orchidaceae
 
 Este proyecto tiene como objetivo reconstruir una filogenia molecular del género Epidendrum utilizando secuencias del gen cloroplástico matK, ampliamente usado en estudios filogenéticos de plantas. A partir de esta filogenia, se mapeará la presencia o ausencia de nectar spurs en las especies incluidas, con el fin de inferir patrones evolutivos asociados a esta característica floral. El análisis permitirá explorar posibles eventos de ganancia o pérdida del espolón en el grupo, aportando a la comprensión de la diversificación morfológica dentro del género.
 
