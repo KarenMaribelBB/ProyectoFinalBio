@@ -23,4 +23,4 @@ done
 cat cytb_*.fasta > ctyb.fasta
 cat coi_*.fasta > coi.fasta
 
-#Una vez se descargan los genes se deben modificar los headers en atom para su correcta lectura para alinear y hacer la filogenia. Dejar el nombre de la especie y el número de voucher
+#Una vez que se descargan los genes se deben modificar los headers en atom para su correcta lectura para alinear y hacer la filogenia. Dejar el nombre de la especie y el número de voucher
